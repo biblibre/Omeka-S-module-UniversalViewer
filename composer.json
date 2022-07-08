@@ -33,7 +33,7 @@
                 "version": "3.1.2",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Daniel-KM/UniversalViewer/releases/download/3.1.2/uv.zip",
+                    "url": "https://github.com/biblibre/UniversalViewer/releases/download/v3.1.2%2Bbiblibre.1/uv.zip",
                     "reference": "3.0.2"
                 }
             }

@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d6fbc14d7ff6cb28a1581bc5531bfe7d",
+    "content-hash": "9c3a6df4367fe008b27f29e098362b59",
     "packages": [
         {
             "name": "asset/uv",
             "version": "3.1.2",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/biblibre/UniversalViewer/releases/download/v3.1.2%2Bbiblibre.1/uv.zip",
+                "url": "https://github.com/biblibre/UniversalViewer/releases/download/v3.1.2%2Bbiblibre.2/uv.zip",
                 "reference": "3.0.2"
             },
             "type": "omeka-addon-asset"
@@ -250,7 +250,6 @@
             "require": {
                 "php": ">=5.5.0"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -283,5 +282,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "1.1.0"
 }
